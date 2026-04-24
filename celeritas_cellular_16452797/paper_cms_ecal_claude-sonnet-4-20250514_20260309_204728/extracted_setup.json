@@ -1,0 +1,56 @@
+{
+  "experiment_name": "CMS Electromagnetic Calorimeter",
+  "detector_description": "The electromagnetic calorimeter (ECAL) for the Compact Muon Solenoid (CMS) experiment at CERN",
+  "geometry": {
+    "shape": null,
+    "dimensions": {
+      "diameter": {
+        "value": null,
+        "unit": null
+      },
+      "height": {
+        "value": null,
+        "unit": null
+      },
+      "radius": {
+        "value": null,
+        "unit": null
+      },
+      "depth": {
+        "value": null,
+        "unit": null
+      },
+      "width": {
+        "value": null,
+        "unit": null
+      },
+      "wall_thickness": {
+        "value": null,
+        "unit": null
+      },
+      "fiducial_mass": {
+        "value": null,
+        "unit": null
+      }
+    }
+  },
+  "materials": [],
+  "physics_processes": [],
+  "simulation_params": {
+    "software": null,
+    "physics_list": null,
+    "num_events": null
+  },
+  "quoted_values": {},
+  "analysis_methods": [],
+  "relevant_text": {},
+  "source": {
+    "arxiv_id": null,
+    "pdf_path": null,
+    "doi": null,
+    "title": "",
+    "authors": []
+  },
+  "paper_date": null,
+  "knowledge_cutoff": "2000-01-01"
+}
